@@ -25,6 +25,10 @@
     display: none;
 }
 
+body{
+    overflow: hidden;
+}
+
 nav {
     background-color:#7e542a;
     width: 300px;
